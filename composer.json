@@ -8,6 +8,7 @@
     "ramsey/uuid": "^3.9",
     "pear/http_request2": "v2.5.0"
   },
+  "license": "MIT",
   "autoload": {
     "psr-4": {
       "Z0x\\Tzbankopen\\": "src/"
